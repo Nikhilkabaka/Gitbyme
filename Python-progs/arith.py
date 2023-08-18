@@ -8,3 +8,4 @@ a=int(input("Enter num1 :"))
 b=int(input("Enter num2 :"))
 print("Ans=",add(a,b))
 print("Ans=",sub(a,b))
+
